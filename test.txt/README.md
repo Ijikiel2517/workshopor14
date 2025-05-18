@@ -1,4 +1,4 @@
-Ini merupakan repository dalam wirjshop OR14 Neo Telemetri
+Ini merupakan repository dalam workshop OR14 Neo Telemetri
 
 Nama = Alzikri
 Divisi = Programming
